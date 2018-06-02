@@ -1,0 +1,28 @@
+﻿---
+ID: "7ed7ed1f-558e-4fda-ab6a-79103728b8d0"
+Parent: "e848bdce-e5db-4957-859d-5ea32c7c4418"
+Template: "638537c6-e0b1-418a-be17-66bdda6caeb7"
+Path: /sitecore/system/Tasks/Commands/ServiceLocatorPatternOrAntiPattern/ExampleCommand
+DB: master
+SharedFields:
+- ID: "550921b6-6748-44ac-9001-f2f8fb650fef"
+  Hint: Type
+  Value: ServiceLocatorPatternOrAntiPattern.Commands.CommandTaskContainerAdapter, ServiceLocatorPatternOrAntiPattern
+- ID: "d2421e11-aff2-4ebf-a62b-de2e46868b6b"
+  Hint: Method
+  Value: Execute
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180531T035812Z
+    - ID: "35e39de9-bbbc-4c2d-af70-14fb12650914"
+      Hint: Command Type
+      Value: ServiceLocatorPatternOrAntiPattern.Commands.ExampleCommand, ServiceLocatorPatternOrAntiPattern
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
