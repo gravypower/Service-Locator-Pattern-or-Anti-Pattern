@@ -5,7 +5,13 @@ Template: "638537c6-e0b1-418a-be17-66bdda6caeb7"
 Path: /sitecore/system/Tasks/Commands/ServiceLocatorPatternOrAntiPattern/ExampleCommand
 DB: master
 SharedFields:
+- ID: "4bc75539-d5c4-487b-af35-ff13d62bd286"
+  Hint: Method
+  Value: Execute
 - ID: "550921b6-6748-44ac-9001-f2f8fb650fef"
+  Hint: Type
+  Value: ServiceLocatorPatternOrAntiPattern.Commands.CommandTaskContainerAdapter, ServiceLocatorPatternOrAntiPattern
+- ID: "752579a7-ef2f-45b7-b9d1-9b682308b7a5"
   Hint: Type
   Value: ServiceLocatorPatternOrAntiPattern.Commands.CommandTaskContainerAdapter, ServiceLocatorPatternOrAntiPattern
 - ID: "d2421e11-aff2-4ebf-a62b-de2e46868b6b"
